@@ -50,9 +50,6 @@
   <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" />
 </p>
 
------
 
-**## 🏆 Трофеи GitHub
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Sait5&theme=onedark&no-frame=true&row=2&column=4" alt="Трофеи" />
-</p>**
+
+
