@@ -1,6 +1,6 @@
 <!-- БАННЕР С ГИФКОЙ -->
 <p align="center">
-  <img src="https://pin.it/2VFpwjQg4" alt="banner" width="100%" />
+  <img src="https://pin.it/xwkVCGyEn" alt="banner" width="100%" />
 </p>
 
 <!-- ВАШ ТЕКСТ (БЕЗ ИЗМЕНЕНИЙ) -->
