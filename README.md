@@ -1,9 +1,11 @@
-<!-- БАННЕР С ГИФКОЙ -->
+<!-- ВИДЕО-БАННЕР -->
 <p align="center">
-  <img src="https://pin.it/xwkVCGyEn" alt="banner" width="100%" />
+  <video src="https://raw.githubusercontent.com/Sait5/Sait5/main/дарк.mp4" controls autoplay loop muted width="100%">
+    Ваш браузер не поддерживает видео.
+  </video>
 </p>
 
-<!-- ВАШ ТЕКСТ (БЕЗ ИЗМЕНЕНИЙ) -->
+<!-- ВАШ ТЕКСТ -->
 <p align="center">
   <strong>Привет, меня зовут Балаев Сейт-Ахмет Алиевич</strong>
 </p>
