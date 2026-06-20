@@ -1,3 +1,17 @@
+<!-- БАННЕР С ГИФКОЙ -->
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=700&pause=1000&color=00FF00&center=true&vCenter=true&width=600&height=100&lines=%3E%20Frontend%20Developer;%3E%20Clean%20Code%20Enthusiast;%3E%20Vue.js%20Expert" alt="Typing SVG" />
+  <img src="ССЫЛКА_НА_ВАШУ_ГИФКУ" alt="banner" width="100%" />
+</p>
+
+<!-- ВАШ ТЕКСТ (БЕЗ ИЗМЕНЕНИЙ) -->
+<p align="center">
+  <strong>Привет, меня зовут Балаев Сейт-Ахмет Алиевич</strong>
+</p>
+
+<p align="center">
+  Frontend-разработчик | Создаю чистые и эффективные интерфейсы с точностью
+</p>
+
+<p align="center">
+  Мой подход к фронтенду строится на трех китах: производительность, семантическая вёрстка и человеко-читаемый код. Я рассматриваю интерфейс не как набор экранов, а как живую систему, где каждая строчка обязана быть быстрой, доступной и готовой к изменениям без боли для следующего разработчика.
 </p>
