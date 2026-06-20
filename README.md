@@ -1,6 +1,5 @@
 <p align="center">
   <video width="100%" controls autoplay loop muted playsinline>
-    <source src="https://raw.githubusercontent.com/Sait5/Sait5/main/Дарк.mp4" type="video/mp4">
-    Ваш браузер не поддерживает видео.
+    <source src="https://imgur.com/a/ilc3xpG" type="video/mp4">
   </video>
 </p>
