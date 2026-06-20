@@ -62,5 +62,5 @@
 
 -----
 <p align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark&quote=Код%20—%20это%20стихи,%20написанные%20для%20машины" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer" width="100%"/>
 </p>
