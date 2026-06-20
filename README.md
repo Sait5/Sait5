@@ -1,6 +1,6 @@
 <!-- ВИДЕО-БАННЕР -->
 <p align="center">
-  <video src="https://raw.githubusercontent.com/Sait5/Sait5/main/дарк.mp4" autoplay loop muted playsinline width="100%">
+  <video src="https://raw.githubusercontent.com/Sait5/Sait5/main/preview.gif" autoplay loop muted playsinline width="100%">
     Ваш браузер не поддерживает видео.
   </video>
 </p>
