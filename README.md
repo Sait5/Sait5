@@ -61,6 +61,31 @@
 </p>
 
 -----
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer" width="100%"/>
-</p>
+## 🚀 Мои проекты
+
+<table>
+  <tr>
+    <td align="center">
+      <a href="https://github.com/Sait5/MINIStore">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=Sait5&repo=MINIStore&theme=dark&bg_color=0D1117&title_color=7FDBFF&icon_color=7FDBFF" />
+      </a>
+    </td>
+    <td align="center">
+      <a href="https://github.com/Sait5/Mebel">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=Sait5&repo=Mebel&theme=dark&bg_color=0D1117&title_color=7FDBFF&icon_color=7FDBFF" />
+      </a>
+    </td>
+  </tr>
+  <tr>
+    <td align="center">
+      <a href="https://github.com/Sait5/Floor-mats">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=Sait5&repo=Floor-mats&theme=dark&bg_color=0D1117&title_color=7FDBFF&icon_color=7FDBFF" />
+      </a>
+    </td>
+    <td align="center">
+      <a href="https://github.com/Sait5/Santehnika-sait">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=Sait5&repo=Santehnika-sait&theme=dark&bg_color=0D1117&title_color=7FDBFF&icon_color=7FDBFF" />
+      </a>
+    </td>
+  </tr>
+</table>
