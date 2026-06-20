@@ -59,3 +59,8 @@
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sait5&layout=compact&theme=dark&hide_border=true&bg_color=0D1117&title_color=7FDBFF&text_color=C0C0C0" />
 </p>
+
+-----
+<p align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark&quote=Код%20—%20это%20стихи,%20написанные%20для%20машины" />
+</p>
