@@ -1,6 +1,8 @@
-<!-- БАННЕР В ВИДЕ GIF -->
+<!-- ВИДЕО-БАННЕР -->
 <p align="center">
-  <img src="https://raw.githubusercontent.com/Sait5/Sait5/main/preview.gif" alt="banner" width="100%" />
+  <video src="https://raw.githubusercontent.com/Sait5/Sait5/main/Дарк.mp4 autoplay loop muted playsinline width="100%">
+    Ваш браузер не поддерживает видео.
+  </video>
 </p>
 
 <!-- ВАШ ТЕКСТ -->
