@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://raw.githubusercontent.com/Sait5/Sait5/main/moi.gif" alt="banner" width="100%" />
+  <img src="https://raw.githubusercontent.com/Sait5/Sait5/main/moi.gif" alt="banner" width="250px" />
 </p>
 
 <p align="center">
