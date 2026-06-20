@@ -1,3 +1,3 @@
 <p align="center">
-  <img src="https://raw.githubusercontent.com/Sait5/Sait5/main/tok.gif" alt="banner" width="250" />
+  <img src="https://raw.githubusercontent.com/Sait5/Sait5/main/moi.gif" alt="banner" width="250" />
 </p>
