@@ -14,7 +14,16 @@
   Мой подход к фронтенду строится на трех китах: производительность, семантическая вёрстка и человеко-читаемый код. Я рассматриваю интерфейс не как набор экранов, а как живую систему, где каждая строчка обязана быть быстрой, доступной и готовой к изменениям без боли для следующего разработчика.
 </p>
 
------
+---
+
+##  Связь со мной
+
+<p align="center">
+  <a href="https://t.me/Saitama000001"><img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" /></a>
+</p>
+
+---
+
 ##  Мой арсенал технологий
 
 ### Frontend
@@ -50,6 +59,15 @@
   <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" />
 </p>
 
+---
 
+##  Моя статистика
 
+<p align="center">
+  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=Sait5&show_icons=true&theme=dark&hide_border=true&bg_color=0D1117&title_color=7FDBFF&icon_color=7FDBFF&text_color=C0C0C0" />
+  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=Sait5&theme=dark&hide_border=true&background=0D1117&stroke=7FDBFF&ring=7FDBFF&fire=FF6B6B&currStreakNum=7FDBFF&sideNums=C0C0C0&currStreakLabel=C0C0C0&sideLabels=C0C0C0" />
+</p>
 
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sait5&layout=compact&theme=dark&hide_border=true&bg_color=0D1117&title_color=7FDBFF&text_color=C0C0C0" />
+</p>
