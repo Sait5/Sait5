@@ -16,11 +16,12 @@
 
 
 
+
 <p align="center">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=Sait5&show_icons=true&theme=dark&hide_border=true&bg_color=0D1117&title_color=7FDBFF&icon_color=7FDBFF&text_color=C0C0C0" />
-  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=Sait5&theme=dark&hide_border=true&background=0D1117&stroke=7FDBFF&ring=7FDBFF&fire=FF6B6B&currStreakNum=7FDBFF&sideNums=C0C0C0&currStreakLabel=C0C0C0&sideLabels=C0C0C0" />
+  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=Sait5&show_icons=true&theme=dark&hide_border=true&bg_color=0A0A0A&title_color=8B0000&icon_color=8B0000&text_color=A0A0A0" />
+  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=Sait5&theme=dark&hide_border=true&background=0A0A0A&stroke=8B0000&ring=8B0000&fire=FF4500&currStreakNum=8B0000&sideNums=A0A0A0&currStreakLabel=A0A0A0&sideLabels=A0A0A0" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sait5&layout=compact&theme=dark&hide_border=true&bg_color=0D1117&title_color=7FDBFF&text_color=C0C0C0" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sait5&layout=compact&theme=dark&hide_border=true&bg_color=0A0A0A&title_color=8B0000&text_color=A0A0A0" />
 </p>
