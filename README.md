@@ -1,6 +1,15 @@
 <p align="center">
-  <video width="100%" controls autoplay loop muted playsinline>
-    <source src="https://raw.githubusercontent.com/Sait5/Sait5/main/lom.mp4" type="video/mp4">
-    Ваш браузер не поддерживает видео.
-  </video>
+  <img src="https://raw.githubusercontent.com/Sait5/Sait5/main/tok.gif" alt="banner" width="100%" />
+</p>
+
+<p align="center">
+  <strong>Привет, меня зовут Балаев Сейт-Ахмет Алиевич</strong>
+</p>
+
+<p align="center">
+  Frontend-разработчик | Создаю чистые и эффективные интерфейсы с точностью
+</p>
+
+<p align="center">
+  Мой подход к фронтенду строится на трех китах: производительность, семантическая вёрстка и человеко-читаемый код. Я рассматриваю интерфейс не как набор экранов, а как живую систему, где каждая строчка обязана быть быстрой, доступной и готовой к изменениям без боли для следующего разработчика.
 </p>
